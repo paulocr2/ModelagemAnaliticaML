@@ -1,4 +1,5 @@
 
-Conteúdo:
+Conteúdo do dia 2:
 
-- Slides do dia 2.
+- Slides.
+
